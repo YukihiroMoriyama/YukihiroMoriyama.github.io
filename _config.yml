@@ -6,7 +6,7 @@ url: http://yukihiromoriyama.github.io/
 title: Yukihiro Moriyama's Portfolio
 email: m.y.like.music.10@gmail.com
 author: Yukihiro Moriyama
-description: 'test'
+description: 'ポートフォリオサイト'
 copyright: 'Copyright &copy; 2015 Yukihiro Moriyama. All Rights Reserved.'
 credits: 'Credits: Landing Page is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com/">Start Bootstrap</a>.'
 
@@ -23,5 +23,7 @@ permalink: pretty
 # ----------------------- #
 
 social:
+  # - title: facebook
+  #   url: https://www.facebook.com/yukihiro.moriyama.3
   - title: github
     url: https://github.com/YukihiroMoriyama
