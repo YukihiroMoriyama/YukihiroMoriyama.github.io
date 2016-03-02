@@ -1,8 +1,8 @@
 ---
 layout: default
-img: ipad.png
+img: asiato.png
 category: Services
-title: 体験学習における学習者の能動的な行動を誘発させるアプリケーション
+title: 体験学習における学習者の能動的な行動を促すモバイルアプリ
 description: |
 ---
-  A special thanks to [Death to the Stock Photo](http://join.deathtothestockphoto.com/) for providing the photographs that you see in this template.  Visit their website to become a member!
+ 体験学習は，「場」を体感的に理解する行為であり，そのためには学習者の積極的な関与の姿勢が重要です．本アプリケーションでは，ウォークラリーを利用して，学習者に断片的な情報を与え能動的な行動を促すことを狙っています．

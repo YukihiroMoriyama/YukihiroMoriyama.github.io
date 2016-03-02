@@ -1,9 +1,9 @@
 ---
 layout: default
-img: phones.png
+img: comic.png
 category: Services
 
 title: コミック閲覧時のユーザの興味をトリガとした情報提示インタフェース
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+　本インタフェースは，漫画に描写されているモノ（e.g., 食べ物, 機械) から，それに関連する情報にアクセス可能にするものです．特徴として，漫画を読みながら直接情報にアクセスすることができます．ハッカソンで開発したアプリケーションが基になっています．

@@ -1,10 +1,8 @@
 ---
 layout: default
-img: dog.png
+img: context.png
 category: Services
-title: コンテクスト検索による情報探索支援するためのインタフェース
+title: コンテクスト検索における情報探索を支援するインタフェース
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+　「昨年の iPod の人気だった時期は？」に関する検索を"コンテクスト検索"と呼びます．本インタフェースは，コンテクスト検索を行うユーザが検索しやすく，また結果を理解しやすくする目的で開発されています．具体的には，自然言語による検索クエリの入力を可能にし，時間関係を理解しやすくするために時系列に結果を表示しています．卒業研究で取り組みました．

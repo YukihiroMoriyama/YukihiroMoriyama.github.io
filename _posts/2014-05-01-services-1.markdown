@@ -1,8 +1,8 @@
 ---
 layout: default
-img: phones.png
+img: crete.png
 category: Services
 title: 体験情報の外在化を促進するための協創支援環境
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+　本システムは，対話を通じて旅行などで体験した思い出 (体験情報) を引き出し記録する行為を支援するものです．こうした場面では，聞き手の体験や知識が話し手に比べて乏しいため円滑な対話が難しいです．本システムでは聞き手に情報を提供し，聞き手はそれを用いて対話を行えるようにしています．
